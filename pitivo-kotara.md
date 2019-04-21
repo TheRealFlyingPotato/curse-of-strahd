@@ -1,4 +1,4 @@
-### Pitivo Kotora
+### Pitivo Kotara
 Medium human
 <br>Armor Class 12 (Leather Armor)
 <br>Hit Points 11 (2d8+2)
