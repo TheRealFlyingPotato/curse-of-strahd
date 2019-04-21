@@ -24,3 +24,13 @@
 * Master of Swords (Warrior)
   * This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
   * That which you seek lies in the womb of darkness, the devil's lair: the one place he must return.
+* Artifact (Joker 1)
+  * This card sheds light on one who will help you greatly in the battle against the darkness.
+  * Look for an entertaing man with a monkey. This man is more than he seems.
+* Beast (Jack of Diamonds)
+  * Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
+  * The beast sits on his dark throne.
+## Random Encounters 
+* every half hour in road or in wilderness, max 2 in 12 hours
+  * On road: 18+
+  * In wilderness: 15+
