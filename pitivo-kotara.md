@@ -1,5 +1,5 @@
 ### Pitivo Kotara
-<br>Armor Class 12
+Armor Class 12
 <br>Hit Points 12
 <br>Speed 35 ft.
 
