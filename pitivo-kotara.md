@@ -1,7 +1,6 @@
 ### Pitivo Kotara
-Medium human
-<br>Armor Class 12 (Leather Armor)
-<br>Hit Points 11 (2d8+2)
+<br>Armor Class 12
+<br>Hit Points 12
 <br>Speed 35 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -9,7 +8,7 @@ Medium human
 | 11 (+0) | 12 (+1) | 12 (+1) |  10 (+0) | 12 (+1) | 10 (+0) |
 
 <b>Passive Perception</b> 11
-<br><b>Agile.</b>When Pitivo makes a melee attack against a creature, he doesn't provoke opportunity attacks from that creature for the rest of the turn.
+<br><b>Agile.</b> When Pitivo makes a melee attack against a creature, he doesn't provoke opportunity attacks from that creature for the rest of the turn.
 <br>
 <br><b>Actions</b>
 <br><b>Whip.</b> Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: (1d4+1) slashing damage.
